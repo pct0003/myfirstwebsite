@@ -10,7 +10,7 @@ Can I use html?
 _Red doesn't work._
 
 There should be a google doc here:
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTrXCajRvapP1ojOi9d0Vhc-hG4OnzPwhEveuGxGo0uaAFRuzN67EVM-wnRhavx6TA1oEsydkVr26A/pub?embedded=true"></iframe>
+<iframe width="560" height="315" src="https://docs.google.com/document/d/e/2PACX-1vRTrXCajRvapP1ojOi9d0Vhc-hG4OnzPwhEveuGxGo0uaAFRuzN67EVM-wnRhavx6TA1oEsydkVr26A/pub?embedded=true" frameborder="0" allowfullscreen></iframe>
 
 ### Exploring markdown
 ```markdown
