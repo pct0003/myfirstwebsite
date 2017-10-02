@@ -2,6 +2,16 @@
 
 This is [a hyperlink to google](http://google.com).
 
+Can I use html?
+
+<b>This should be bold</b>
+
+<font color="red">This should be red</font>
+_Red doesn't work._
+
+There should be a google doc here:
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRTrXCajRvapP1ojOi9d0Vhc-hG4OnzPwhEveuGxGo0uaAFRuzN67EVM-wnRhavx6TA1oEsydkVr26A/pub?embedded=true"></iframe>
+
 ### Exploring markdown
 ```markdown
 # Header 1
