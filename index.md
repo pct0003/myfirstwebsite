@@ -7,7 +7,7 @@ Can I use html?
 <b>This should be bold</b>
 
 <font color="red">This should be red</font>
-_Red doesn't work._
+_Red does work!_
 
 There should be a 560x315 google doc here:
 <iframe width="560" height="315" src="https://docs.google.com/document/d/e/2PACX-1vRTrXCajRvapP1ojOi9d0Vhc-hG4OnzPwhEveuGxGo0uaAFRuzN67EVM-wnRhavx6TA1oEsydkVr26A/pub?embedded=true" border-style:solid; allowfullscreen></iframe>
