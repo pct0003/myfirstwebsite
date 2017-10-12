@@ -10,10 +10,10 @@ Can I use html?
 _Red does work!_
 
 My form:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVCgZGBYp_51AkH9s7XIqLW6056M8qwGGcgBOX-c_cN8uSUA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVCgZGBYp_51AkH9s7XIqLW6056M8qwGGcgBOX-c_cN8uSUA/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 
-There should be a 560x315 google sheet here:
-<iframe width="1000" height="560" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2UlnISpWYsyfdKx6cVvQE4h_EV7f7QUK7ZnC4xliInaXuFsI_0Zwze_TScs2OkQ0RTy7LVQrykRB8/pubhtml?gid=1925359137&amp;single=true&amp;widget=true&amp;headers=false" style="border-style:solid;" allowfullscreen></iframe>
+There should be a 760x5600 google sheet here:
+<iframe width="760" height="560" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2UlnISpWYsyfdKx6cVvQE4h_EV7f7QUK7ZnC4xliInaXuFsI_0Zwze_TScs2OkQ0RTy7LVQrykRB8/pubhtml?gid=1925359137&amp;single=true&amp;widget=true&amp;headers=false" style="border-style:solid;" allowfullscreen></iframe>
 
 ### Exploring markdown
 ```markdown
